@@ -33,6 +33,7 @@ Exercise 2
 ![alt text](img/image.png)
 
 Understand the function of a switch and a hub, how they operate and their role in networking.
+
 Switch:
 
     Function: A switch connects multiple devices in a network and sends data only to the **device it is meant for**.
@@ -53,3 +54,5 @@ Summary:
     Hub = Sends data to all devices, increases traffic.
 
 Exercise 3
+
+![alt text](img/screenrecord.gif)
