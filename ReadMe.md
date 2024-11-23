@@ -28,3 +28,28 @@ In summary:
 
     Straight-through = different devices (e.g., computer to router).
     Crossover = similar devices (e.g., computer to computer).
+
+Exercise 2
+![alt text](img/image.png)
+
+Understand the function of a switch and a hub, how they operate and their role in networking.
+Switch:
+
+    Function: A switch connects multiple devices in a network and sends data only to the **device it is meant for**.
+    How it works: It uses **MAC addresses to identify devices**. When it gets data, it checks the destination and sends it only to the correct device, improving network efficiency.
+    Role: Switches **reduce network traffic and help devices communicate faster and more securely**.
+    OSI 2 - (Data Link Layer) — More intelligent, reduces traffic.
+
+Hub:
+
+    Function: A hub also connects multiple devices, but it sends data to **all devices**, not just the intended one.
+    How it works: It **doesn't check where the data should go; it broadcasts it to everyone**, which can lead to network congestion.
+    Role: Hubs are **simpler but less efficient** and can slow down the network.
+    OSI 1 - (Physical Layer) — Simple, broadcasts data to all devices.
+
+Summary:
+
+    Switch = Sends data to the correct device, reduces traffic.
+    Hub = Sends data to all devices, increases traffic.
+
+Exercise 3
