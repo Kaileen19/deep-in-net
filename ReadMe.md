@@ -280,7 +280,6 @@ When data arrives at the router, the router looks at its **routing table** to de
 
 - **Destination Networks**: The routing table lists where the data should go. For example, if data is destined for a different network, the router checks the table to find the best route.
 - **Next Hop**: The table tells the router which router or device to forward the data to. It’s like the next step on the path to the final destination.
-
 - **Path Cost**: The routing table may include information about the cost of each route. Some routes may be faster or more efficient than others, and the router will choose the best option based on the cost.
 
 ---
