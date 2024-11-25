@@ -56,3 +56,56 @@ Summary:
 Exercise 3
 
 ![alt text](img/screenrecord.gif)
+
+    Server and Its Purpose in Networking: A server is a computer or system that provides services, data, or resources to other computers (clients) over a network. Servers can offer things like web pages, files, emails, or even games.
+
+    DHCP (Dynamic Host Configuration Protocol): DHCP is a protocol that automatically assigns IP addresses to devices on a network. Instead of manually configuring each device with an IP address, the DHCP server gives each device an IP address when it joins the network.
+
+    DNS (Domain Name System): DNS is like the phonebook of the internet. It translates human-friendly domain names (like www.example.com) into IP addresses (like 192.168.1.1) that computers use to locate each other on a network.
+
+    HTTP (Hypertext Transfer Protocol): HTTP is used for transferring web pages over the internet. When you visit a website, your browser uses HTTP to request and receive web pages from a web server.
+
+    HTTPS (Hypertext Transfer Protocol Secure): HTTPS is a secure version of HTTP. It uses encryption to protect the data being sent between your browser and the server, ensuring privacy and security. It’s often used for online transactions.
+
+    FTP (File Transfer Protocol): FTP is a protocol used to transfer files over a network. It allows users to upload or download files to/from a server, often used for website maintenance or file sharing.
+
+    TCP and UDP Communication:
+
+    TCP (Transmission Control Protocol) is reliable and ensures that data is delivered in order and without errors. It’s used for things like web browsing and email.
+    UDP (User Datagram Protocol) is faster but less reliable. It doesn’t guarantee delivery or order, making it suitable for things like video streaming or gaming.
+
+    OSI Model Layer for TCP and UDP: TCP and UDP both operate at the Transport Layer (Layer 4) of the OSI model. They handle end-to-end communication and data flow between devices.
+
+    Port in Networking: A port is like a door or entry point that allows different types of data to flow into and out of a computer or device. Each service or protocol usually uses a specific port number.
+
+    Ports and OSI Layers for Protocols:
+
+    HTTP: Port 80, operates at Application Layer (Layer 7).
+    HTTPS: Port 443, operates at Application Layer (Layer 7).
+    FTP: Port 21, operates at Application Layer (Layer 7).
+    TCP/UDP: Operates at Transport Layer (Layer 4).
+
+    Different Types of DNS Records:
+
+    A Record: Maps a domain to an IP address.
+    MX Record: Specifies mail servers for a domain.
+    CNAME Record: Maps a domain to another domain (alias).
+    NS Record: Defines authoritative name servers for a domain.
+    PTR Record: Used for reverse DNS lookups (IP to domain).
+
+Ex.4
+
+![alt text](img/image-2.png)
+
+Ex.5
+
+![alt text](img/image-3.png)
+
+Ex.6
+![alt text](img/image-4.png)
+
+Ex.7
+![alt text](img/image-5.png)
+
+Ex.8
+![alt text](img/image-6.png)
