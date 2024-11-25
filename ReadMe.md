@@ -8,7 +8,7 @@ Welcome to the networking exercises guide! This document provides answers and ex
 
 You will need to download Cisco Packet Tracer to complete some exercises. This tool allows you to simulate and configure networks in a virtual environment, offering valuable practice for real-world networking tasks.
 
-## Each exercise builds on the previous one, helping you gain a solid understanding of networking principles. Let's get started!
+**Each exercise builds on the previous one, helping you gain a solid understanding of networking principles. Let's get started!**
 
 ---
 
